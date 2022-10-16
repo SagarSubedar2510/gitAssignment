@@ -1,0 +1,5 @@
+#This is requirement file for this Github Project
+numpy
+pandas
+scipy
+matplotlib
